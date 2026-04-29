@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import EventCard from "./components/EventCard";
+import EventCard from "./Components/EventCard";
 import { events } from "./data/events";
 import './App.css'
 
