@@ -55,7 +55,7 @@ function App() {
 
   if (error) {
     return (
-      <div className="h-screen flex items-center justify-center text-red-500">
+      <div className="h-screen flex items-center justify-center text-red-600">
         {error}
       </div>
     );
